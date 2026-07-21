@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-suxv3p.agen1386pln.cfd/sitemap.xml
